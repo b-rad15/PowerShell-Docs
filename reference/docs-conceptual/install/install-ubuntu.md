@@ -163,4 +163,4 @@ Microsoft can't support those methods.
 [04]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
 [05]: install-other-linux.md#binary-archives
 [06]: /dotnet/core/install/linux-package-mixup?pivots=os-linux-ubuntu#my-linux-distribution-provides-net-packages-and-i-want-to-use-them
-[07]: /dotnet/core/install/linux-package-mixup?pivots=os-linux-ubuntu#whats-going-on
+[07]: /powershell/scripting/install/install-other-linux?view=powershell-7.4
